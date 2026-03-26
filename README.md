@@ -21,7 +21,7 @@ I am a Computer Science student with a strong foundational grasp of the Python d
 
 ###  Highlighted Projects
 
-#### [Mental Health Detection Using Machine Learning](link-to-project-repo-if-you-have-one)
+#### [Mental Health Detection Using Machine Learning](Mental-Health-Detection-using-Machine-Learning)
 * **Tech Stack:** Python, Scikit-learn, Flask, Pandas
 * Architected an end-to-end predictive system to identify mental health conditions from raw healthcare data.
 * Engineered a robust data pipeline for missing value imputation and categorical encoding.
