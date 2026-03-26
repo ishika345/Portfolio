@@ -10,7 +10,7 @@ I am a Computer Science student with a strong foundational grasp of the Python d
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 * **Languages:** Python, Java, C++, SQL, HTML
 * **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Hugging Face Transformers, TensorFlow, Keras
