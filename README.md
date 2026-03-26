@@ -21,13 +21,13 @@ I am a Computer Science student with a strong foundational grasp of the Python d
 
 ###  Highlighted Projects
 
-#### [Mental Health Detection Using Machine Learning]([Mental-Health-Detection-using-Machine-Learning](https://github.com/ishika345/Mental-Health-Detection-using-Machine-Learning))
+#### [Mental Health Detection Using Machine Learning](https://github.com/ishika345/Mental-Health-Detection-using-Machine-Learning)
 * **Tech Stack:** Python, Scikit-learn, Flask, Pandas
 * Architected an end-to-end predictive system to identify mental health conditions from raw healthcare data.
 * Engineered a robust data pipeline for missing value imputation and categorical encoding.
 * Achieved a peak accuracy of 0.98 using a hyperparameter-tuned Random Forest architecture and deployed it as a real-time REST API using Flask.
 
-#### [Stroke Prediction & Risk Analysis]((https://github.com/ishika345/Stroke-Prediction-Using-Machine-Learning))
+#### [Stroke Prediction & Risk Analysis](https://github.com/ishika345/Stroke-Prediction-Using-Machine-Learning)
 * **Tech Stack:** Python, Flask, REST API, Hugging Face
 * Executed Exploratory Data Analysis (EDA) and statistical feature selection on clinical datasets.
 * Addressed class imbalance using SMOTE, achieving a model accuracy of 96.33% with Random Forest.
